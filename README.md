@@ -1,1 +1,1 @@
-Docs updates: Add Explorer to tab, YOLOv5 in Guides and Usage in Quickstart (#7438)
+YOLOv8.1 blog, Explorer notebook and 2023 > 2024 updates (#7469)
