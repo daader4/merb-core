@@ -1,1 +1,1 @@
-Fix xyxyxyxyn calculation in obb result (#8188)
+Update CITATION.cff with cffinit corrections (#8658)
