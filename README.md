@@ -1,1 +1,1 @@
-Pass callbacks to validator (#7320)
+YOLOv8 INT8 TFLite Inference Example (#7317)
