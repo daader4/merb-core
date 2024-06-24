@@ -1,1 +1,1 @@
-fix for KeyError: 'epoch' (#48)
+Add object blurring & object cropping modules in Ultralytics docs (#7434)
